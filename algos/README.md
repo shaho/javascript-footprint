@@ -7,3 +7,4 @@ Here’s a list of algorithms which has implemented in JavaScript
 - [Palindrome](https://github.com/shaho/javascript-footprint/tree/master/algos/Palindrome)
 - [Max Character](https://github.com/shaho/javascript-footprint/tree/master/algos/Max-Character)
 - [fizzbuzz](https://github.com/shaho/javascript-footprint/tree/master/algos/Fizzbuzz)
+- [Anagrams](https://github.com/shaho/javascript-footprint/tree/master/algos/Anagrams)
