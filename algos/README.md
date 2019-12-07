@@ -11,3 +11,4 @@ Here’s a list of algorithms which has implemented in JavaScript:
 - [Capitalize](https://github.com/shaho/javascript-footprint/tree/master/algos/Capitalize)
 - [Steps](https://github.com/shaho/javascript-footprint/tree/master/algos/Steps)
 - [Pyramid](https://github.com/shaho/javascript-footprint/tree/master/algos/Pyramid)
+- [Find the Vowels](https://github.com/shaho/javascript-footprint/tree/master/algos/Find-the-Vowels)
