@@ -1,3 +1,3 @@
-# javascript Footprint
+# JavaScript Footprint
 
 The JavaScript "Slavery" Footprint
