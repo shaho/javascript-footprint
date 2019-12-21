@@ -1,8 +1,4 @@
-# JavaScript Tricks
-
-The JavaScript "Slavery" tricks
-
-## Objects
+# JavaScript Objects Tricks
 
 - [Get length of object](https://github.com/shaho/javascript-footprint/blob/master/tricks/objects/1.get-length-of-object.js)
 - [Iterate over an object](https://github.com/shaho/javascript-footprint/blob/master/tricks/objects/2.iterate-over-an-object.js)
