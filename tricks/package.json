@@ -1,6 +1,9 @@
 {
   "name": "tricks",
+  "description": "JavaScript tricks",
+  "author": "Shaho Toofani <toofani@gmail.com>",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/shaho/react-boilerpalte#readme"
 }
