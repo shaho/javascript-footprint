@@ -4,3 +4,7 @@
 - [Iterate over an object](https://github.com/shaho/javascript-footprint/blob/master/tricks/objects/2.iterate-over-an-object.js)
 - [Convert object to array](https://github.com/shaho/javascript-footprint/blob/master/tricks/objects/3.convert-object-to-array.js)
 - [Check if a property exists in objects](https://github.com/shaho/javascript-footprint/blob/master/tricks/objects/4.check-if-a-property-exists-in-objects.js)
+- [Merge multiple objects into one object]()
+- [Computed object properties]()
+- [Delete or filter property of object]()
+- [Get all values in object]()
