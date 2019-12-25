@@ -10,4 +10,4 @@ const newNumber = phoneNumber
   .fill("*", 0, 3)
   .join("");
 
-console.log(newNumber);
+console.log(newNumber); // ***5255252

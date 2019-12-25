@@ -5,3 +5,4 @@
 - [Remove falsy values in array](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/3.remove-falsy-values-in-array.js)
 - [Remove items from array](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/4.remove-items-from-array.js)
 - [Fill array with values]()
+- [Find certain element index of array]()
