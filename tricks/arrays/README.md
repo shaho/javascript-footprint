@@ -6,3 +6,6 @@
 - [Remove items from array](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/4.remove-items-from-array.js)
 - [Fill array with values](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/5.fill-array-with-values.js)
 - [Find certain element index of array](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/6.find-certain-element-index-of-array.js)
+- [Make range of numbers within array]()
+- [Get only unique values in array]()
+- [Find th differences (non-shared items) between two arrays]()
