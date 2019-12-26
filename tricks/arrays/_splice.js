@@ -19,5 +19,6 @@
 // Splice => Mutate
 // Slice => does not Mutate
 // Filter => does not Mutate
+// Pop => Mutate
 
 // split => turn string to array

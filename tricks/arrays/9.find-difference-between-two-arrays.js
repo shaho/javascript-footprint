@@ -21,4 +21,5 @@ const arr2 = ["Shaho", "Mohsen", "Pooya"];
 const result = [...new Set(arr1)].filter((element) => {
   return !arr2.includes(element);
 });
+
 console.log(result);
