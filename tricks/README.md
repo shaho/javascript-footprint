@@ -27,3 +27,8 @@ The JavaScript "Slavery" tricks
 - [Remove items from left right side of array](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/10.remove-items-from-left-right-side-of-array.js)
 - [Find shared values between two arrays](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/11.find-shared-values-between-two-arrays.js)
 - [Get last item in array, get everything before last item in array](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/12.get-last-item-everything-before-in-array.js)
+
+## Functions
+
+- [Debounce function](https://github.com/shaho/javascript-footprint/blob/master/tricks/functions/1.debounce-function.js)
+- [Function that can be called only once](https://github.com/shaho/javascript-footprint/blob/master/tricks/functions/2.one-function.js)
