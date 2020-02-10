@@ -1,6 +1,6 @@
 # JavaScript Footprint &#10004;
 
-The JavaScript "Slavery" Footprint
+The JavaScript "Slavery" Footprint 🥴
 
 ## The Most Common JavaScript Algorithms
 
