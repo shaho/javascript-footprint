@@ -4,7 +4,7 @@ The JavaScript "Slavery" Footprint 🥴
 
 ## The Most Common JavaScript Algorithms
 
-Here’s a list of algorithms which has implemented in JavaScript:
+Here’s a list of common algorithms which has implemented in JavaScript:
 
 - [Reverse String](https://github.com/shaho/javascript-footprint/tree/master/algos/Reverse-String)
 - [Reverse Integer](https://github.com/shaho/javascript-footprint/tree/master/algos/Reverse-Integer)
