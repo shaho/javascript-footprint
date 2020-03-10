@@ -19,7 +19,7 @@ Here’s a list of common algorithms which has implemented in JavaScript:
 
 ## JavaScript Tricks
 
-The JavaScript "Slavery" tricks
+🔥 The JavaScript "Slavery" tricks
 
 ### Objects
 
