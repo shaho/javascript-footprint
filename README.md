@@ -17,9 +17,9 @@ Here’s a list of common algorithms which has implemented in JavaScript:
 - [Pyramid](https://github.com/shaho/javascript-footprint/tree/master/algos/Pyramid)
 - [Find the Vowels](https://github.com/shaho/javascript-footprint/tree/master/algos/Find-the-Vowels)
 
-## JavaScript Tricks
+## JavaScript Tricks 🔥
 
-🔥 The JavaScript "Slavery" tricks
+ The JavaScript "Slavery" tricks
 
 ### Objects
 
