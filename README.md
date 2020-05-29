@@ -21,7 +21,7 @@ Here’s a list of common algorithms which has implemented in JavaScript:
 
  The JavaScript "Slavery" Tricks
 
-### Objects ✔
+### Objects
 
 - [Get length of object](https://github.com/shaho/javascript-footprint/blob/master/tricks/objects/1.get-length-of-object.js)
 - [Iterate over an object](https://github.com/shaho/javascript-footprint/blob/master/tricks/objects/2.iterate-over-an-object.js)
@@ -32,7 +32,7 @@ Here’s a list of common algorithms which has implemented in JavaScript:
 - [Delete or filter property of object](https://github.com/shaho/javascript-footprint/blob/master/tricks/objects/7.delete-or-filter-property-of-object.js)
 - [Get all values in object](https://github.com/shaho/javascript-footprint/blob/master/tricks/objects/8.get-all-values-in-object.js)
 
-### Arrays ✔
+### Arrays
 
 - [Array shallow copy/clone](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/1.array-shallow-copy-clone.js)
 - [Get a random element from an array](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/2.get-random-element-from-array.js)
@@ -47,7 +47,7 @@ Here’s a list of common algorithms which has implemented in JavaScript:
 - [Find shared values between two arrays](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/11.find-shared-values-between-two-arrays.js)
 - [Get last item in array, get everything before last item in array](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/12.get-last-item-everything-before-in-array.js)
 
-### Functions ✔
+### Functions
 
 - [Debounce function](https://github.com/shaho/javascript-footprint/blob/master/tricks/functions/1.debounce-function.js)
 - [Function that can be called only once](https://github.com/shaho/javascript-footprint/blob/master/tricks/functions/2.one-function.js)
