@@ -1,4 +1,4 @@
-# JavaScript Footprint &#10004;
+# JavaScript Footprint
 
 The JavaScript "Slavery" Footprint
 
