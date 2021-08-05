@@ -12,3 +12,5 @@
 - [Remove items from left right side of array](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/10.remove-items-from-left-right-side-of-array.js)
 - [Find shared values between two arrays](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/11.find-shared-values-between-two-arrays.js)
 - [Get last item in array, get everything before last item in array](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/12.get-last-item-everything-before-in-array.js)
+- [Array.map() substitute with Array.from()](https://github.com/shaho/javascript-footprint/blob/master/tricks/arrays/13.array-from.js)
+  <br />![](13.array-from.jpeg)
